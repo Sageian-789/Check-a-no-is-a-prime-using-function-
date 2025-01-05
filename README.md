@@ -1,1 +1,0 @@
-# Check-a-no-is-a-prime-using-function-
